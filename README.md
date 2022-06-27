@@ -58,4 +58,4 @@ Scheduling app for COM519
 
 2. ![image2](pop.jpg)
 
-3. ![image3](Screenshot.jpg)
+3. ![image3](app.jpg)

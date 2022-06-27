@@ -54,8 +54,14 @@ Scheduling app for COM519
 
 ### Step by step image presentation
 
-1. ![image](project.jpg)
+1. connect to git hub
 
-2. ![image2](pop.jpg)
+- ![image](project.jpg)
 
-3. ![image3](app.jpg)
+2. set automatic deploy then click deploy once!!
+
+- ![image2](pop.jpg)
+
+3. click open app to see application
+
+- ![image3](app.jpg)

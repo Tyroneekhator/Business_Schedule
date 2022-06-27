@@ -55,5 +55,7 @@ Scheduling app for COM519
 ### Step by step image presentation
 
 1. ![image](project.jpg)
+
 2. ![image2](pop.jpg)
-3. ![image3](Screenshot.png)
+
+3. ![image3](Screenshot.jpg)

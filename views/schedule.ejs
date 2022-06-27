@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ 
+ 
+    <h1>List of all schedules</h1>
+
+    <form action="/update/:id" method="post">
+        <div >
+            <div >
+                <label> Company Name</label>
+                <input type="text" name="company" value = "<%= company %>" >
+    
+            </div>
+        </div>
+        <div >
+            <div >
+                <label>Publish Date</label>
+                <input type="date" name="date" value = "<%= date %>">
+            </div>
+        </div>
+    
+        <div >
+            <div >
+                <label>Theme of meeting</label>
+                <textarea name="description" ></textarea>
+            </div>
+        </div>
+        <button class="btn" type="submit">create</button>
+    </form>
+
+</body>
+</html>

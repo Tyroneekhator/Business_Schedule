@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+
+<body>
+    <%- include('./partials/nav.ejs') %>
+    <h1>create a schedule</h1>    
+    <form action="/addschedule" method="post">
+        
+            <label for="fname"> Company Name</label>
+            <input  id="fname"type="text" name="company" placeholder="company name" required>
+    
+            <label>Publish Date</label>
+            <input id="country" type="date" name="date"  required><br>
+                <br>
+      
+            <label>Theme of meeting</label>
+            <textarea id="subject" name="description" placeholder="Theme of meeting"></textarea>
+       
+        <button  class="button-82"  type="submit">create</button>
+    </form>
+    <br>
+    <%- include('./partials/footer.ejs') %>
+</body>
+
+</html>

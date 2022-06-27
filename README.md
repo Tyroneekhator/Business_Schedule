@@ -56,12 +56,12 @@ Scheduling app for COM519
 
 1. connect to git hub
 
-- ![image](images/project.jpg)
+- ![image](images/project.jpeg)
 
 2. set automatic deploy then click deploy once!!
 
-- ![image2](images/pop.jpg)
+- ![image2](images/pop.jpeg)
 
 3. click open app to see application
 
-- ![image3](images/app.jpg)
+- ![image3](images/app.jpeg)
